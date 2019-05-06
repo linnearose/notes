@@ -1,0 +1,1363 @@
+﻿ID,Country Abbreviation,State Abbreviation,State Name
+AT1,AT,1,Burgenland
+AT2,AT,2,Karnten
+AT3,AT,3,Niederosterreich
+AT4,AT,4,Oberosterreich
+AT5,AT,5,Salzburg
+AT6,AT,6,Steiermark
+AT7,AT,7,Tirol
+AT8,AT,8,Vorarlberg
+AT9,AT,9,Wien
+AUACT,AU,ACT,Australian Capital Territory
+AUNSW,AU,NSW,New South Wales
+AUNT,AU,NT,Northern Territory
+AUQLD,AU,QLD,Queensland
+AUSA,AU,SA,South Australia
+AUTAS,AU,TAS,Tasmania
+AUVIC,AU,VIC,Victoria
+AUWA,AU,WA,Western Australia
+BEBRU,BE,BRU,Brussels Hoofdstedelijk Gewest
+BEVAN,BE,VAN,Antwerpen
+BEVBR,BE,VBR,Vlaams-Brabant
+BEVLI,BE,VLI,Limburg
+BEVOV,BE,VOV,Oost-Vlaanderen
+BEVWV,BE,VWV,West-Vlaanderen
+BEWBR,BE,WBR,Waals-Brabant
+BEWHT,BE,WHT,Henegouwen
+BEWLG,BE,WLG,Luik
+BEWLX,BE,WLX,Luxemburg
+BEWNA,BE,WNA,Namen
+BMDE,BM,DE,Devonshire
+BMHA,BM,HA,Hamilton
+BMHP,BM,HP,Hamilton Parish
+BMPA,BM,PA,Paget Parish
+BMPE,BM,PE,Pembroke Parish
+BMSA,BM,SA,Sandys Parish
+BMSG,BM,SG,Saint George
+BMSM,BM,SM,Smiths Parish
+BMSO,BM,SO,Southampton Parish
+BMSP,BM,SP,Saint George Parish
+BMWA,BM,WA,Warwick Parish
+BRAC,BR,AC,Acre
+BRAL,BR,AL,Alagoas
+BRAM,BR,AM,Amazonas
+BRAP,BR,AP,Amapa
+BRBA,BR,BA,Bahia
+BRCE,BR,CE,Ceara
+BRDF,BR,DF,Distrito Federal
+BRES,BR,ES,Espirito Santo
+BRGO,BR,GO,Goias
+BRMA,BR,MA,Maranhao
+BRMG,BR,MG,Minas Gerais
+BRMS,BR,MS,Mato Grosso do Sul
+BRMT,BR,MT,Mato Grosso
+BRPA,BR,PA,Para
+BRPB,BR,PB,Paraiba
+BRPE,BR,PE,Pernambuco
+BRPI,BR,PI,Piaui
+BRPR,BR,PR,Parana
+BRRJ,BR,RJ,Rio de Janeiro
+BRRN,BR,RN,Rio Grande do Norte
+BRRO,BR,RO,Rondonia
+BRRR,BR,RR,Roraima
+BRRS,BR,RS,Rio Grande do Sul
+BRSC,BR,SC,Santa Catarina
+BRSE,BR,SE,Sergipe
+BRSP,BR,SP,Sao Paulo
+BRTO,BR,TO,Tocantins
+CAAB,CA,AB,Alberta
+CABC,CA,BC,British Columbia
+CAMB,CA,MB,Manitoba
+CANB,CA,NB,New Brunswick
+CANL,CA,NL,Newfoundland & Labrador
+CANS,CA,NS,Nova Scotia
+CANT,CA,NT,Northwest Territories
+CANU,CA,NU,Nunavut
+CAON,CA,ON,Ontario
+CAPE,CA,PE,Prince Edward Island
+CAQC,CA,QC,Quebec
+CASK,CA,SK,Saskatchewan
+CAYT,CA,YT,Yukon
+CHAG,CH,AG,Aargau
+CHAI,CH,AI,Appenzell Innerrhoden
+CHAR,CH,AR,Appenzell Ausserrhoden
+CHBE,CH,BE,Bern
+CHBL,CH,BL,Basel-Landschaft
+CHBS,CH,BS,Basel-Stadt
+CHFR,CH,FR,Freiburg
+CHGE,CH,GE,Genf
+CHGL,CH,GL,Glarus
+CHGR,CH,GR,Graubunden
+CHJU,CH,JU,Jura
+CHLU,CH,LU,Luzern
+CHNE,CH,NE,Neuenburg
+CHNW,CH,NW,Nidwalden
+CHOW,CH,OW,Obwalden
+CHSG,CH,SG,Sankt Gallen
+CHSH,CH,SH,Schaffhausen
+CHSO,CH,SO,Solothurn
+CHSZ,CH,SZ,Schwyz
+CHTG,CH,TG,Thurgau
+CHTI,CH,TI,Ticino
+CHUR,CH,UR,Uri
+CHVD,CH,VD,Waadt
+CHVS,CH,VS,Wallis
+CHZG,CH,ZG,Zug
+CHZH,CH,ZH,Zurich
+CN11,CN,11,Beijing
+CN12,CN,12,Tianjin
+CN13,CN,13,Hebei
+CN14,CN,14,Shanxi
+CN15,CN,15,Inner Mongolia
+CN21,CN,21,Liaoning
+CN22,CN,22,Jilin
+CN23,CN,23,Heilongjiang
+CN31,CN,31,Shanghai
+CN32,CN,32,Jiangsu
+CN33,CN,33,Zhejiang
+CN34,CN,34,Anhui
+CN35,CN,35,Fujian
+CN36,CN,36,Jiangxi
+CN37,CN,37,Shandong
+CN41,CN,41,Henan
+CN42,CN,42,Hubei
+CN43,CN,43,Hunan
+CN44,CN,44,Guangdong
+CN45,CN,45,Guangxi
+CN46,CN,46,Hainan
+CN50,CN,50,Chongqing
+CN51,CN,51,Sichuan
+CN52,CN,52,Guizhou
+CN53,CN,53,Yunnan
+CN54,CN,54,Tibet
+CN61,CN,61,Shaanxi
+CN62,CN,62,Gansu
+CN63,CN,63,Qinghai
+CN64,CN,64,Ningxia
+CN65,CN,65,Xinjiang
+CN91,CN,91,Hong Kong
+CN92,CN,92,Macau
+CRA,CR,A,Alajuela
+CRC,CR,C,Cartago
+CRG,CR,G,Guanacaste
+CRH,CR,H,Heredia
+CRL,CR,L,Limon
+CRP,CR,P,Puntarenas
+CRSJ,CR,SJ,San Jose
+CY01,CY,1,Lefkosia
+CY02,CY,2,Lemesos
+CY03,CY,3,Larnaka
+CY04,CY,4,Ammochostos
+CY05,CY,5,Pafos
+CY06,CY,6,Keryneia
+DEBB,DE,BB,Brandenburg
+DEBE,DE,BE,Berlin
+DEBW,DE,BW,Baden-Wurttemberg
+DEBY,DE,BY,Bayern
+DEHB,DE,HB,Bremen
+DEHE,DE,HE,Hessen
+DEHH,DE,HH,Hamburg
+DEMV,DE,MV,Mecklenburg-Vorpommern
+DENI,DE,NI,Niedersachsen
+DENW,DE,NW,Nordrhein-Westfalen
+DERP,DE,RP,Rheinland-Pfalz
+DESH,DE,SH,Schleswig-Holstein
+DESL,DE,SL,Saarland
+DESN,DE,SN,Sachsen
+DEST,DE,ST,Sachsen-Anhalt
+DETH,DE,TH,Thuringen
+DK81,DK,81,Nordjylland
+DK82,DK,82,Midtjylland
+DK83,DK,83,Syddanmark
+DK84,DK,84,Hovedstaden
+DK85,DK,85,Sjaelland
+EGALX,EG,ALX,Alexandria
+EGASN,EG,ASN,Aswan
+EGAST,EG,AST,Asyut
+EGBA,EG,BA,Red Sea
+EGBH,EG,BH,Beheira
+EGBNS,EG,BNS,Beni Suef
+EGC,EG,C,Cairo
+EGDK,EG,DK,Dakahlia
+EGDT,EG,DT,Damietta
+EGFYM,EG,FYM,Faiyum
+EGGH,EG,GH,Gharbia
+EGGZ,EG,GZ,Giza
+EGHU,EG,HU,Hulwan
+EGIS,EG,IS,Ismailia
+EGJS,EG,JS,South Sinai
+EGKB,EG,KB,Qalyubia
+EGKFS,EG,KFS,Kafr el-Sheikh
+EGKN,EG,KN,Qena
+EGLX,EG,LX,Luxor
+EGMN,EG,MN,Minya
+EGMNF,EG,MNF,Monufia
+EGMT,EG,MT,Matruh
+EGPTS,EG,PTS,Port Said
+EGSHG,EG,SHG,Sohag
+EGSHR,EG,SHR,Sharqia
+EGSIN,EG,SIN,North Sinai
+EGSU,EG,SU,As Sadis min Uktubar
+EGSUZ,EG,SUZ,Suez
+EGWAD,EG,WAD,New Valley
+ESA,ES,A,Alicante
+ESAB,ES,AB,Albacete
+ESAL,ES,AL,Almeria
+ESAV,ES,AV,A vila
+ESB,ES,B,Barcelona
+ESBA,ES,BA,Badajoz
+ESBI,ES,BI,Vizcaya
+ESBU,ES,BU,Burgos
+ESC,ES,C,La Coruna
+ESCA,ES,CA,Cadiz
+ESCC,ES,CC,Caceres
+ESCE,ES,CE,Ceuta
+ESCO,ES,CO,Cordoba
+ESCR,ES,CR,Ciudad Real
+ESCS,ES,CS,Castellon
+ESCU,ES,CU,Cuenca
+ESGC,ES,GC,Las Palmas
+ESGI,ES,GI,Girona
+ESGR,ES,GR,Granada
+ESGU,ES,GU,Guadalajara
+ESH,ES,H,Huelva
+ESHU,ES,HU,Huesca
+ESJ,ES,J,Jaen
+ESL,ES,L,Lleida
+ESLE,ES,LE,Leon
+ESLO,ES,LO,La Rioja
+ESLU,ES,LU,Lugo
+ESM,ES,M,Madrid
+ESMA,ES,MA,Malaga
+ESML,ES,ML,Melilla
+ESMU,ES,MU,Murcia
+ESNA,ES,NA,Navarra
+ESO,ES,O,Asturias
+ESOR,ES,OR,Ourense
+ESP,ES,P,Palencia
+ESPM,ES,PM,Islas Baleares
+ESPO,ES,PO,Pontevedra
+ESS,ES,S,Cantabria
+ESSA,ES,SA,Salamanca
+ESSE,ES,SE,Sevilla
+ESSG,ES,SG,Segovia
+ESSO,ES,SO,Soria
+ESSS,ES,SS,Guipuzcoa
+EST,ES,T,Tarragona
+ESTE,ES,TE,Teruel
+ESTF,ES,TF,Santa Cruz de Tenerife
+ESTO,ES,TO,Toledo
+ESV,ES,V,Valencia
+ESVA,ES,VA,Valladolid
+ESVI,ES,VI,A lava
+ESZ,ES,Z,Zaragoza
+ESZA,ES,ZA,Zamora
+ETAA,ET,AA,Addis Ababa
+ETAF,ET,AF,Afar
+ETAM,ET,AM,Amhara
+ETBE,ET,BE,Benishangul-Gumuz
+ETDD,ET,DD,Dire Dawa
+ETGA,ET,GA,Gambela
+ETHA,ET,HA,Harari
+ETOR,ET,OR,Oromia
+ETSN,ET,SN,Southern Nations
+ETSO,ET,SO,Somali
+ETTI,ET,TI,Tigray
+FIAL,FI,AL,Ahvenanmaan laani
+FIES,FI,ES,Etela-Suomen laani
+FIIS,FI,IS,Ita-Suomen laani
+FILL,FI,LL,Lapin laani
+FILS,FI,LS,Lansi-Suomen laani
+FIOL,FI,OL,Oulun laani
+FR01,FR,1,Ain
+FR02,FR,2,Aisne
+FR03,FR,3,Allier
+FR04,FR,4,Alpes-de-Haute-Provence
+FR05,FR,5,Hautes-Alpes
+FR06,FR,6,Alpes-Maritimes
+FR07,FR,7,Ardeche
+FR08,FR,8,Ardennes
+FR09,FR,9,Ariege
+FR10,FR,10,Aube
+FR11,FR,11,Aude
+FR12,FR,12,Aveyron
+FR13,FR,13,Bouches-du-Rhone
+FR14,FR,14,Calvados
+FR15,FR,15,Cantal
+FR16,FR,16,Charente
+FR17,FR,17,Charente-Maritime
+FR18,FR,18,Cher
+FR19,FR,19,Correze
+FR21,FR,21,Cote-d'Or
+FR22,FR,22,Cotes-d'Armor
+FR23,FR,23,Creuse
+FR24,FR,24,Dordogne
+FR25,FR,25,Doubs
+FR26,FR,26,Drome
+FR27,FR,27,Eure
+FR28,FR,28,Eure-et-Loir
+FR29,FR,29,Finistere
+FR2A,FR,2A,Corse-du-Sud
+FR2B,FR,2B,Haute-Corse
+FR30,FR,30,Gard
+FR31,FR,31,Haute-Garonne
+FR32,FR,32,Gers
+FR33,FR,33,Gironde
+FR34,FR,34,Herault
+FR35,FR,35,Ille-et-Vilaine
+FR36,FR,36,Indre
+FR37,FR,37,Indre-et-Loire
+FR38,FR,38,Isere
+FR39,FR,39,Jura
+FR40,FR,40,Landes
+FR41,FR,41,Loir-et-Cher
+FR42,FR,42,Loire
+FR43,FR,43,Haute-Loire
+FR44,FR,44,Loire-Atlantique
+FR45,FR,45,Loiret
+FR46,FR,46,Lot
+FR47,FR,47,Lot-et-Garonne
+FR48,FR,48,Lozere
+FR49,FR,49,Maine-et-Loire
+FR50,FR,50,Manche
+FR51,FR,51,Marne
+FR52,FR,52,Haute-Marne
+FR53,FR,53,Mayenne
+FR54,FR,54,Meurthe-et-Moselle
+FR55,FR,55,Meuse
+FR56,FR,56,Morbihan
+FR57,FR,57,Moselle
+FR58,FR,58,Nievre
+FR59,FR,59,Nord
+FR60,FR,60,Oise
+FR61,FR,61,Orne
+FR62,FR,62,Pas-de-Calais
+FR63,FR,63,Puy-de-Dome
+FR64,FR,64,Pyrenees-Atlantiques
+FR65,FR,65,Hautes-Pyrenees
+FR66,FR,66,Pyrenees-Orientales
+FR67,FR,67,Bas-Rhin
+FR68,FR,68,Haut-Rhin
+FR69,FR,69,Rhone
+FR70,FR,70,Haute-Saone
+FR71,FR,71,Saone-et-Loire
+FR72,FR,72,Sarthe
+FR73,FR,73,Savoie
+FR74,FR,74,Haute-Savoie
+FR75,FR,75,Paris
+FR76,FR,76,Seine-Maritime
+FR77,FR,77,Seine-et-Marne
+FR78,FR,78,Yvelines
+FR79,FR,79,Deux-Sevres
+FR80,FR,80,Somme
+FR81,FR,81,Tarn
+FR82,FR,82,Tarn-et-Garonne
+FR83,FR,83,Var
+FR84,FR,84,Vaucluse
+FR85,FR,85,Vendee
+FR86,FR,86,Vienne
+FR87,FR,87,Haute-Vienne
+FR88,FR,88,Vosges
+FR89,FR,89,Yonne
+FR90,FR,90,Territoire de Belfort
+FR91,FR,91,Essonne
+FR92,FR,92,Hauts-de-Seine
+FR93,FR,93,Seine-Saint-Denis
+FR94,FR,94,Val-de-Marne
+FR95,FR,95,Val-d'Oise
+FRBL,FR,BL,Saint-Barthelemy
+FRGF,FR,GF,Guyane
+FRGP,FR,GP,Guadeloupe
+FRMF,FR,MF,Saint-Martin
+FRMQ,FR,MQ,Martinique
+FRNC,FR,NC,Nouvelle-Caledonie
+FRPF,FR,PF,Polynesie Francaise
+FRPM,FR,PM,Saint-Pierre et Miquelon
+FRRE,FR,RE,La Reunion
+FRTF,FR,TF,Terres australes et antarctiques
+FRWF,FR,WF,Wallis et Futuna
+FRYT,FR,YT,Mayotte
+GBABD,GB,ABD,Aberdeenshire
+GBABE,GB,ABE,Aberdeen City
+GBAGB,GB,AGB,Argyll and Bute
+GBAGY,GB,AGY,Isle of Anglesey
+GBANS,GB,ANS,Angus
+GBANT,GB,ANT,Antrim
+GBARD,GB,ARD,Ards
+GBARM,GB,ARM,Armagh
+GBBAS,GB,BAS,Bath and North East Somerset
+GBBBD,GB,BBD,Blackburn with Darwen
+GBBDF,GB,BDF,Bedford
+GBBDG,GB,BDG,Barking and Dagenham
+GBBEN,GB,BEN,Brent
+GBBEX,GB,BEX,Bexley
+GBBFS,GB,BFS,Belfast City
+GBBGE,GB,BGE,Bridgend
+GBBGW,GB,BGW,Blaenau Gwent
+GBBIR,GB,BIR,Birmingham
+GBBKM,GB,BKM,Buckinghamshire
+GBBLA,GB,BLA,Ballymena
+GBBLY,GB,BLY,Ballymoney
+GBBMH,GB,BMH,Bournemouth
+GBBNB,GB,BNB,Banbridge
+GBBNE,GB,BNE,Barnet
+GBBNH,GB,BNH,The City of Brighton and Hove
+GBBNS,GB,BNS,Barnsley
+GBBOL,GB,BOL,Bolton
+GBBPL,GB,BPL,Blackpool
+GBBRC,GB,BRC,Bracknell Forest
+GBBRD,GB,BRD,Bradford
+GBBRY,GB,BRY,Bromley
+GBBST,GB,BST,City of Bristol
+GBBUR,GB,BUR,Bury
+GBCAM,GB,CAM,Cambridgeshire
+GBCAY,GB,CAY,Caerphilly
+GBCBF,GB,CBF,Central Bedfordshire
+GBCGN,GB,CGN,Ceredigion
+GBCGV,GB,CGV,Craigavon
+GBCHE,GB,CHE,Cheshire East
+GBCHW,GB,CHW,Cheshire West and Chester
+GBCKF,GB,CKF,Carrickfergus
+GBCKT,GB,CKT,Cookstown
+GBCLD,GB,CLD,Calderdale
+GBCLK,GB,CLK,Clackmannanshire
+GBCLR,GB,CLR,Coleraine
+GBCMA,GB,CMA,Cumbria
+GBCMD,GB,CMD,Camden
+GBCMN,GB,CMN,Carmarthenshire
+GBCON,GB,CON,Cornwall
+GBCOV,GB,COV,Coventry
+GBCRF,GB,CRF,Cardiff
+GBCRY,GB,CRY,Croydon
+GBCSR,GB,CSR,Castlereagh
+GBCWY,GB,CWY,Conwy
+GBDAL,GB,DAL,Darlington
+GBDBY,GB,DBY,Derbyshire
+GBDEN,GB,DEN,Denbighshire
+GBDER,GB,DER,City of Derby
+GBDEV,GB,DEV,Devon
+GBDGN,GB,DGN,Dungannon and South Tyrone
+GBDGY,GB,DGY,Dumfries and Galloway
+GBDNC,GB,DNC,Doncaster
+GBDND,GB,DND,Dundee City
+GBDOR,GB,DOR,Dorset
+GBDOW,GB,DOW,Down
+GBDRY,GB,DRY,Derry City
+GBDUD,GB,DUD,Dudley
+GBDUR,GB,DUR,Durham
+GBEAL,GB,EAL,Ealing
+GBEAY,GB,EAY,East Ayrshire
+GBEDH,GB,EDH,City of Edinburgh
+GBEDU,GB,EDU,East Dunbartonshire
+GBELN,GB,ELN,East Lothian
+GBELS,GB,ELS,Outer Hebrides
+GBENF,GB,ENF,Enfield
+GBERW,GB,ERW,East Renfrewshire
+GBERY,GB,ERY,East Riding of Yorkshire
+GBESS,GB,ESS,Essex
+GBESX,GB,ESX,East Sussex
+GBFAL,GB,FAL,Falkirk
+GBFER,GB,FER,Fermanagh
+GBFIF,GB,FIF,Fife
+GBFLN,GB,FLN,Flintshire
+GBGAT,GB,GAT,Gateshead
+GBGLG,GB,GLG,Glasgow City
+GBGLS,GB,GLS,Gloucestershire
+GBGRE,GB,GRE,Greenwich
+GBGWN,GB,GWN,Gwynedd
+GBHAL,GB,HAL,Halton
+GBHAM,GB,HAM,Hampshire
+GBHAV,GB,HAV,Havering
+GBHCK,GB,HCK,Hackney
+GBHEF,GB,HEF,Herefordshire
+GBHIL,GB,HIL,Hillingdon
+GBHLD,GB,HLD,Highland
+GBHMF,GB,HMF,Hammersmith and Fulham
+GBHNS,GB,HNS,Hounslow
+GBHPL,GB,HPL,Hartlepool
+GBHRT,GB,HRT,Hertfordshire
+GBHRW,GB,HRW,Harrow
+GBHRY,GB,HRY,Haringey
+GBIOW,GB,IOW,Isle of Wight
+GBISL,GB,ISL,Islington
+GBIVC,GB,IVC,Inverclyde
+GBKEC,GB,KEC,Kensington and Chelsea
+GBKEN,GB,KEN,Kent
+GBKHL,GB,KHL,Kingston upon Hull
+GBKIR,GB,KIR,Kirklees
+GBKTT,GB,KTT,Kingston upon Thames
+GBKWL,GB,KWL,Knowsley
+GBLAN,GB,LAN,Lancashire
+GBLBH,GB,LBH,Lambeth
+GBLCE,GB,LCE,City of Leicester
+GBLDS,GB,LDS,Leeds
+GBLEC,GB,LEC,Leicestershire
+GBLEW,GB,LEW,Lewisham
+GBLIN,GB,LIN,Lincolnshire
+GBLIV,GB,LIV,Liverpool
+GBLMV,GB,LMV,Limavady
+GBLND,GB,LND,City of London
+GBLRN,GB,LRN,Larne
+GBLSB,GB,LSB,Lisburn
+GBLUT,GB,LUT,Luton
+GBMAN,GB,MAN,City of Manchester
+GBMDB,GB,MDB,Middlesbrough
+GBMDW,GB,MDW,Medway
+GBMFT,GB,MFT,Magherafelt
+GBMIK,GB,MIK,Milton Keynes
+GBMLN,GB,MLN,Midlothian
+GBMON,GB,MON,Monmouthshire
+GBMRT,GB,MRT,Merton
+GBMRY,GB,MRY,Moray
+GBMTY,GB,MTY,Merthyr Tydfil
+GBMYL,GB,MYL,Moyle
+GBNAY,GB,NAY,North Ayrshire
+GBNBL,GB,NBL,Northumberland
+GBNDN,GB,NDN,North Down
+GBNEL,GB,NEL,North East Lincolnshire
+GBNET,GB,NET,Newcastle upon Tyne
+GBNFK,GB,NFK,Norfolk
+GBNGM,GB,NGM,City of Nottingham
+GBNLK,GB,NLK,North Lanarkshire
+GBNLN,GB,NLN,North Lincolnshire
+GBNSM,GB,NSM,North Somerset
+GBNTA,GB,NTA,Newtownabbey
+GBNTH,GB,NTH,Northamptonshire
+GBNTL,GB,NTL,Neath Port Talbot
+GBNTT,GB,NTT,Nottinghamshire
+GBNTY,GB,NTY,North Tyneside
+GBNWM,GB,NWM,Newham
+GBNWP,GB,NWP,Newport
+GBNYK,GB,NYK,North Yorkshire
+GBNYM,GB,NYM,Newry and Mourne
+GBOLD,GB,OLD,Oldham
+GBOMH,GB,OMH,Omagh
+GBORK,GB,ORK,Orkney Islands
+GBOXF,GB,OXF,Oxfordshire
+GBPEM,GB,PEM,Pembrokeshire
+GBPKN,GB,PKN,Perth and Kinross
+GBPLY,GB,PLY,City of Plymouth
+GBPOL,GB,POL,Poole
+GBPOR,GB,POR,City of Portsmouth
+GBPOW,GB,POW,Powys
+GBPTE,GB,PTE,City of Peterborough
+GBRCC,GB,RCC,Redcar and Cleveland
+GBRCH,GB,RCH,Rochdale
+GBRCT,GB,RCT,Rhondda Cynon Taf
+GBRDB,GB,RDB,Redbridge
+GBRDG,GB,RDG,Reading
+GBRFW,GB,RFW,Renfrewshire
+GBRIC,GB,RIC,Richmond upon Thames
+GBROT,GB,ROT,Rotherham
+GBRUT,GB,RUT,Rutland
+GBSAW,GB,SAW,Sandwell
+GBSAY,GB,SAY,South Ayrshire
+GBSCB,GB,SCB,Scottish Borders
+GBSFK,GB,SFK,Suffolk
+GBSFT,GB,SFT,Sefton
+GBSGC,GB,SGC,South Gloucestershire
+GBSHF,GB,SHF,Sheffield
+GBSHN,GB,SHN,St. Helens
+GBSHR,GB,SHR,Shropshire
+GBSKP,GB,SKP,Stockport
+GBSLF,GB,SLF,City of Salford
+GBSLG,GB,SLG,Slough
+GBSLK,GB,SLK,South Lanarkshire
+GBSND,GB,SND,Sunderland
+GBSOL,GB,SOL,Solihull
+GBSOM,GB,SOM,Somerset
+GBSOS,GB,SOS,Southend-on-Sea
+GBSRY,GB,SRY,Surrey
+GBSTB,GB,STB,Strabane
+GBSTE,GB,STE,City of Stoke-on-Trent
+GBSTG,GB,STG,Stirling
+GBSTH,GB,STH,City of Southampton
+GBSTN,GB,STN,Sutton
+GBSTS,GB,STS,Staffordshire
+GBSTT,GB,STT,Stockton-on-Tees
+GBSTY,GB,STY,South Tyneside
+GBSWA,GB,SWA,Swansea
+GBSWD,GB,SWD,Swindon
+GBSWK,GB,SWK,Southwark
+GBTAM,GB,TAM,Tameside
+GBTFW,GB,TFW,Telford and Wrekin
+GBTHR,GB,THR,Thurrock
+GBTOB,GB,TOB,Torbay
+GBTOF,GB,TOF,Torfaen
+GBTRF,GB,TRF,Trafford
+GBTWH,GB,TWH,Tower Hamlets
+GBVGL,GB,VGL,Vale of Glamorgan
+GBWAR,GB,WAR,Warwickshire
+GBWBK,GB,WBK,West Berkshire
+GBWDU,GB,WDU,West Dunbartonshire
+GBWFT,GB,WFT,Waltham Forest
+GBWGN,GB,WGN,Wigan
+GBWIL,GB,WIL,Wiltshire
+GBWKF,GB,WKF,Wakefield
+GBWLL,GB,WLL,Walsall
+GBWLN,GB,WLN,West Lothian
+GBWLV,GB,WLV,City of Wolverhampton
+GBWND,GB,WND,Wandsworth
+GBWNM,GB,WNM,Windsor and Maidenhead
+GBWOK,GB,WOK,Wokingham
+GBWOR,GB,WOR,Worcestershire
+GBWRL,GB,WRL,Wirral
+GBWRT,GB,WRT,Warrington
+GBWRX,GB,WRX,Wrexham
+GBWSM,GB,WSM,City of Westminster
+GBWSX,GB,WSX,West Sussex
+GBYOR,GB,YOR,York
+GBZET,GB,ZET,Shetland Islands
+GR01,GR,1,Aetolia-Acarnania
+GR03,GR,3,Boeotia
+GR04,GR,4,Euboea
+GR05,GR,5,Evrytania
+GR06,GR,6,Phthiotis
+GR07,GR,7,Phocis
+GR11,GR,11,Argolis
+GR12,GR,12,Arcadia
+GR13,GR,13,Achaea
+GR14,GR,14,Ilia
+GR15,GR,15,Corinthia
+GR16,GR,16,Laconia
+GR17,GR,17,Messinia
+GR21,GR,21,Zakynthos
+GR22,GR,22,Corfu
+GR23,GR,23,Kefalonia and Ithaca
+GR24,GR,24,Lefkada
+GR31,GR,31,Arta
+GR32,GR,32,Thesprotia
+GR33,GR,33,Ioannina
+GR34,GR,34,Preveza
+GR41,GR,41,Karditsa
+GR42,GR,42,Larissa
+GR43,GR,43,Magnesia
+GR44,GR,44,Trikala
+GR51,GR,51,Grevena
+GR52,GR,52,Drama
+GR53,GR,53,Imathia
+GR54,GR,54,Thessaloniki
+GR55,GR,55,Kavala
+GR56,GR,56,Kastoria
+GR57,GR,57,Kilkis
+GR58,GR,58,Kozani
+GR59,GR,59,Pella
+GR61,GR,61,Pieria
+GR62,GR,62,Serres
+GR63,GR,63,Florina
+GR64,GR,64,Chalkidiki
+GR69,GR,69,Piraeus
+GR71,GR,71,Evros
+GR72,GR,72,Xanthi
+GR73,GR,73,Rhodope
+GR81,GR,81,Dodecanese
+GR82,GR,82,Cyclades
+GR83,GR,83,Lesbos
+GR84,GR,84,Samos
+GR85,GR,85,Chios
+GR91,GR,91,Heraklion
+GR92,GR,92,Lasithi
+GR93,GR,93,Rethymno
+GR94,GR,94,Chania
+GRA1,GR,A1,West Attica
+IEC,IE,C,Cork
+IECE,IE,CE,Clare
+IECN,IE,CN,Cavan
+IECW,IE,CW,Carlow
+IED,IE,D,Dublin
+IEDL,IE,DL,Donegal
+IEG,IE,G,Galway
+IEKE,IE,KE,Kildare
+IEKK,IE,KK,Kilkenny
+IEKY,IE,KY,Kerry
+IELD,IE,LD,Longford
+IELH,IE,LH,Louth
+IELK,IE,LK,Limerick
+IELM,IE,LM,Leitrim
+IELS,IE,LS,Laois
+IEMH,IE,MH,Meath
+IEMN,IE,MN,Monaghan
+IEMO,IE,MO,Mayo
+IEOY,IE,OY,Offaly
+IERN,IE,RN,Roscommon
+IESO,IE,SO,Sligo
+IETA,IE,TA,Tipperary
+IEWD,IE,WD,Waterford
+IEWH,IE,WH,Westmeath
+IEWW,IE,WW,Wicklow
+IEWX,IE,WX,Wexford
+ILD,IL,D,South
+ILHA,IL,HA,Haifa
+ILJM,IL,JM,Jerusalem
+ILM,IL,M,Center
+ILTA,IL,TA,Tel Aviv
+ILZ,IL,Z,North
+INAN,IN,AN,Andaman and Nicobar Islands
+INAP,IN,AP,Andhra Pradesh
+INAR,IN,AR,Arunachal Pradesh
+INAS,IN,AS,Assam
+INBR,IN,BR,Bihar
+INCH,IN,CH,Chandigarh
+INCT,IN,CT,Chhattisgarh
+INDD,IN,DD,Daman and Diu
+INDL,IN,DL,Delhi
+INDN,IN,DN,Dadra and Nagar Haveli
+INGA,IN,GA,Goa
+INGJ,IN,GJ,Gujarat
+INHP,IN,HP,Himachal Pradesh
+INHR,IN,HR,Haryana
+INJH,IN,JH,Jharkhand
+INJK,IN,JK,Jammu and Kashmir
+INKA,IN,KA,Karnataka
+INKL,IN,KL,Kerala
+INLD,IN,LD,Lakshadweep
+INMH,IN,MH,Maharashtra
+INML,IN,ML,Meghalaya
+INMN,IN,MN,Manipur
+INMP,IN,MP,Madhya Pradesh
+INMZ,IN,MZ,Mizoram
+INNL,IN,NL,Nagaland
+INOR,IN,OR,Orissa
+INPB,IN,PB,Punjab
+INPY,IN,PY,Puducherry
+INRJ,IN,RJ,Rajasthan
+INSK,IN,SK,Sikkim
+INTN,IN,TN,Tamil Nadu
+INTR,IN,TR,Tripura
+INUL,IN,UL,Uttarakhand
+INUP,IN,UP,Uttar Pradesh
+INWB,IN,WB,West Bengal
+ITAG,IT,AG,Agrigento
+ITAL,IT,AL,Alessandria
+ITAN,IT,AN,Ancona
+ITAO,IT,AO,Valle d'Aosta
+ITAP,IT,AP,Ascoli Piceno
+ITAQ,IT,AQ,L'Aquila
+ITAR,IT,AR,Arezzo
+ITAT,IT,AT,Asti
+ITAV,IT,AV,Avellino
+ITBA,IT,BA,Bari
+ITBG,IT,BG,Bergamo
+ITBI,IT,BI,Biella
+ITBL,IT,BL,Belluno
+ITBN,IT,BN,Benevento
+ITBO,IT,BO,Bologna
+ITBR,IT,BR,Brindisi
+ITBS,IT,BS,Brescia
+ITBT,IT,BT,Barletta-Andria-Trani
+ITBZ,IT,BZ,Bolzano
+ITCA,IT,CA,Cagliari
+ITCB,IT,CB,Campobasso
+ITCE,IT,CE,Caserta
+ITCH,IT,CH,Chieti
+ITCI,IT,CI,Carbonia-Iglesias
+ITCL,IT,CL,Caltanissetta
+ITCN,IT,CN,Cuneo
+ITCO,IT,CO,Como
+ITCR,IT,CR,Cremona
+ITCS,IT,CS,Cosenza
+ITCT,IT,CT,Catania
+ITCZ,IT,CZ,Catanzaro
+ITEN,IT,EN,Enna
+ITFC,IT,FC,Forli Cesena
+ITFE,IT,FE,Ferrara
+ITFG,IT,FG,Foggia
+ITFI,IT,FI,Firenze
+ITFM,IT,FM,Fermo
+ITFR,IT,FR,Frosinone
+ITGE,IT,GE,Genova
+ITGO,IT,GO,Gorizia
+ITGR,IT,GR,Grosseto
+ITIM,IT,IM,Imperia
+ITIS,IT,IS,Isernia
+ITKR,IT,KR,Crotone
+ITLC,IT,LC,Lecco
+ITLE,IT,LE,Lecce
+ITLI,IT,LI,Livorno
+ITLO,IT,LO,Lodi
+ITLT,IT,LT,Latina
+ITLU,IT,LU,Lucca
+ITMB,IT,MB,Monza e della Brianza
+ITMC,IT,MC,Macerata
+ITME,IT,ME,Messina
+ITMI,IT,MI,Milano
+ITMN,IT,MN,Mantova
+ITMO,IT,MO,Modena
+ITMS,IT,MS,Massa-Carrara
+ITMT,IT,MT,Matera
+ITNA,IT,NA,Napoli
+ITNO,IT,NO,Novara
+ITNU,IT,NU,Nuoro
+ITOG,IT,OG,Ogliastra
+ITOR,IT,OR,Oristano
+ITOT,IT,OT,Olbia-Tempio
+ITPA,IT,PA,Palermo
+ITPC,IT,PC,Piacenza
+ITPD,IT,PD,Padova
+ITPE,IT,PE,Pescara
+ITPG,IT,PG,Perugia
+ITPI,IT,PI,Pisa
+ITPN,IT,PN,Pordenone
+ITPO,IT,PO,Prato
+ITPR,IT,PR,Parma
+ITPT,IT,PT,Pistoia
+ITPU,IT,PU,Pesaro e Urbino
+ITPV,IT,PV,Pavia
+ITPZ,IT,PZ,Potenza
+ITRA,IT,RA,Ravenna
+ITRC,IT,RC,Reggio di Calabria
+ITRE,IT,RE,Reggio Nell'Emilia
+ITRG,IT,RG,Ragusa
+ITRI,IT,RI,Rieti
+ITRM,IT,RM,Roma
+ITRN,IT,RN,Rimini
+ITRO,IT,RO,Rovigo
+ITSA,IT,SA,Salerno
+ITSI,IT,SI,Siena
+ITSO,IT,SO,Sondrio
+ITSP,IT,SP,La Spezia
+ITSR,IT,SR,Siracusa
+ITSS,IT,SS,Sassari
+ITSV,IT,SV,Savona
+ITTA,IT,TA,Taranto
+ITTE,IT,TE,Teramo
+ITTN,IT,TN,Trento
+ITTO,IT,TO,Torino
+ITTP,IT,TP,Trapani
+ITTR,IT,TR,Terni
+ITTS,IT,TS,Trieste
+ITTV,IT,TV,Treviso
+ITUD,IT,UD,Udine
+ITVA,IT,VA,Varese
+ITVB,IT,VB,Verbano-Cusio-Ossola
+ITVC,IT,VC,Vercelli
+ITVE,IT,VE,Venezia
+ITVI,IT,VI,Vicenza
+ITVR,IT,VR,Verona
+ITVS,IT,VS,Medio Campidano
+ITVT,IT,VT,Viterbo
+ITVV,IT,VV,Vibo Valentia
+JP01,JP,1,Hokkaido
+JP02,JP,2,Aomori
+JP03,JP,3,Iwate
+JP04,JP,4,Miyagi
+JP05,JP,5,Akita
+JP06,JP,6,Yamagata
+JP07,JP,7,Fukushima
+JP08,JP,8,Ibaraki
+JP09,JP,9,Tochigi
+JP10,JP,10,Gunma
+JP11,JP,11,Saitama
+JP12,JP,12,Chiba
+JP13,JP,13,Tokyo
+JP14,JP,14,Kanagawa
+JP15,JP,15,Niigata
+JP16,JP,16,Toyama
+JP17,JP,17,Ishikawa
+JP18,JP,18,Fukui
+JP19,JP,19,Yamanashi
+JP20,JP,20,Nagano
+JP21,JP,21,Gifu
+JP22,JP,22,Shizuoka
+JP23,JP,23,Aichi
+JP24,JP,24,Mie
+JP25,JP,25,Shiga
+JP26,JP,26,Kyoto
+JP27,JP,27,Osaka
+JP28,JP,28,Hyogo
+JP29,JP,29,Nara
+JP30,JP,30,Wakayama
+JP31,JP,31,Tottori
+JP32,JP,32,Shimane
+JP33,JP,33,Okayama
+JP34,JP,34,Hiroshima
+JP35,JP,35,Yamaguchi
+JP36,JP,36,Tokushima
+JP37,JP,37,Kagawa
+JP38,JP,38,Ehime
+JP39,JP,39,Kochi
+JP40,JP,40,Fukuoka
+JP41,JP,41,Saga
+JP42,JP,42,Nagasaki
+JP43,JP,43,Kumamoto
+JP44,JP,44,Oita
+JP45,JP,45,Miyazaki
+JP46,JP,46,Kagoshima
+JP47,JP,47,Okinawa
+KR11,KR,11,Seoul
+KR26,KR,26,Busan
+KR27,KR,27,Daegu
+KR28,KR,28,Incheon
+KR29,KR,29,Gwangju
+KR30,KR,30,Daejeon
+KR31,KR,31,Ulsan
+KR41,KR,41,Gyeonggi-do
+KR42,KR,42,Gangwon-do
+KR43,KR,43,Chungcheongbuk-do
+KR44,KR,44,Chungcheongnam-do
+KR45,KR,45,Jeollabuk-do
+KR46,KR,46,Jeollanam-do
+KR47,KR,47,Gyeongsangbuk-do
+KR48,KR,48,Gyeongsangnam-do
+KR49,KR,49,Jeju-do
+MXAGU,MX,AGU,Aguascalientes
+MXBCN,MX,BCN,Baja California
+MXBCS,MX,BCS,Baja California Sur
+MXCAM,MX,CAM,Campeche
+MXCHH,MX,CHH,Chihuahua
+MXCHP,MX,CHP,Chiapas
+MXCOA,MX,COA,Coahuila de Zaragoza
+MXCOL,MX,COL,Colima
+MXDIF,MX,DIF,Distrito Federal
+MXDUR,MX,DUR,Durango
+MXGRO,MX,GRO,Guerrero
+MXGUA,MX,GUA,Guanajuato
+MXHID,MX,HID,Hidalgo
+MXJAL,MX,JAL,Jalisco
+MXMEX,MX,MEX,Mexico
+MXMIC,MX,MIC,Michoacan de Ocampo
+MXMOR,MX,MOR,Morelos
+MXNAY,MX,NAY,Nayarit
+MXNLE,MX,NLE,Nuevo Leon
+MXOAX,MX,OAX,Oaxaca
+MXPUE,MX,PUE,Puebla
+MXQUE,MX,QUE,Queretaro Arteaga
+MXROO,MX,ROO,Quintana Roo
+MXSIN,MX,SIN,Sinaloa
+MXSLP,MX,SLP,San Luis Potosi
+MXSON,MX,SON,Sonora
+MXTAB,MX,TAB,Tabasco
+MXTAM,MX,TAM,Tamaulipas
+MXTLA,MX,TLA,Tlaxcala
+MXVER,MX,VER,Veracruz Llave
+MXYUC,MX,YUC,Yucatan
+MXZAC,MX,ZAC,Zacatecas
+NLDR,NL,DR,Drenthe
+NLFL,NL,FL,Flevoland
+NLFR,NL,FR,Friesland
+NLGE,NL,GE,Gelderland
+NLGR,NL,GR,Groningen
+NLLI,NL,LI,Limburg
+NLNB,NL,NB,Noord-Brabant
+NLNH,NL,NH,Noord-Holland
+NLOV,NL,OV,Overijssel
+NLUT,NL,UT,Utrecht
+NLZE,NL,ZE,Zeeland
+NLZH,NL,ZH,Zuid-Holland
+NO01,NO,1,A stfold
+NO02,NO,2,Akershus
+NO03,NO,3,Oslo
+NO04,NO,4,Hedmark
+NO05,NO,5,Oppland
+NO06,NO,6,Buskerud
+NO07,NO,7,Vestfold
+NO08,NO,8,Telemark
+NO09,NO,9,Aust-Agder
+NO10,NO,10,Vest-Agder
+NO11,NO,11,Rogaland
+NO12,NO,12,Hordaland
+NO14,NO,14,Sogn og Fjordane
+NO15,NO,15,"Ma,re og Romsdal"
+NO16,NO,16,"Sa,r-Tra,ndelag"
+NO17,NO,17,"Nord-Tra,ndelag"
+NO18,NO,18,Nordland
+NO19,NO,19,Troms
+NO20,NO,20,Finnmark
+NO21,NO,21,Svalbard
+NO22,NO,22,Jan Mayen
+NZAUK,NZ,AUK,Auckland
+NZBOP,NZ,BOP,Bay of Plenty
+NZCAN,NZ,CAN,Canterbury
+NZGIS,NZ,GIS,Gisborne
+NZHKB,NZ,HKB,Hawke's Bay
+NZMBH,NZ,MBH,Marlborough
+NZMWT,NZ,MWT,Manawatu-Wanganui
+NZNSN,NZ,NSN,Nelson
+NZNTL,NZ,NTL,Northland
+NZOTA,NZ,OTA,Otago
+NZSTL,NZ,STL,Southland
+NZTAS,NZ,TAS,Tasman
+NZTKI,NZ,TKI,Taranaki
+NZWGN,NZ,WGN,Wellington
+NZWKO,NZ,WKO,Waikato
+NZWTC,NZ,WTC,West Coast
+QADA,QA,DA,Ad Dawhah
+QAGH,QA,GH,Al Ghuwayriyah
+QAJB,QA,JB,Jariyan al Batnah
+QAJU,QA,JU,Al Jumayliyah
+QAKH,QA,KH,Al Khawr
+QAMS,QA,MS,Madinat ash Shamal
+QARA,QA,RA,Ar Rayyan
+QAUS,QA,US,Umm Salal
+QAWA,QA,WA,Al Wakrah
+RUAD,RU,AD,Adygea republic
+RUAL,RU,AL,Altai republic
+RUALT,RU,ALT,Altai krai
+RUAMU,RU,AMU,Amur oblast
+RUARK,RU,ARK,Arkhangelsk oblast
+RUAST,RU,AST,Astrakhan oblast
+RUBA,RU,BA,Bashkortostan republic
+RUBEL,RU,BEL,Belgorod oblast
+RUBRY,RU,BRY,Bryansk oblast
+RUBU,RU,BU,Buryatia republic
+RUCE,RU,CE,Chechen republic
+RUCHE,RU,CHE,Chelyabinsk oblast
+RUCHU,RU,CHU,Chukotka AO
+RUCU,RU,CU,Chuvashia republic
+RUDA,RU,DA,Dagestan republic
+RUIN,RU,IN,Ingushetia republic
+RUIRK,RU,IRK,Irkutsk oblast
+RUIVA,RU,IVA,Ivanovo oblast
+RUKAM,RU,KAM,Kamchatka krai
+RUKB,RU,KB,Kabardino-Balkar republic
+RUKC,RU,KC,Karachay-Cherkess republic
+RUKDA,RU,KDA,Krasnodar krai
+RUKEM,RU,KEM,Kemerovo oblast
+RUKGD,RU,KGD,Kaliningrad oblast
+RUKGN,RU,KGN,Kurgan oblast
+RUKHA,RU,KHA,Khabarovsk krai
+RUKHM,RU,KHM,Khanty-Mansiyskiy
+RUKIR,RU,KIR,Kirov oblast
+RUKK,RU,KK,Khakassia republic
+RUKL,RU,KL,Kalmykia republic
+RUKLU,RU,KLU,Kaluga oblast
+RUKO,RU,KO,Komi republic
+RUKOS,RU,KOS,Kostroma oblast
+RUKR,RU,KR,Karelia republic
+RUKRS,RU,KRS,Kursk oblast
+RUKYA,RU,KYA,Krasnoyarsk krai
+RULEN,RU,LEN,Leningrad oblast
+RULIP,RU,LIP,Lipetsk oblast
+RUMAG,RU,MAG,Magadan oblast
+RUME,RU,ME,Mari El republic
+RUMO,RU,MO,Mordovia republic
+RUMOS,RU,MOS,Moscow oblast
+RUMOW,RU,MOW,Moscow
+RUMUR,RU,MUR,Murmansk oblast
+RUNEN,RU,NEN,Nenetskiy avtonomnyy okrug
+RUNGR,RU,NGR,Novgorod oblast
+RUNIZ,RU,NIZ,Nizhny Novgorod oblast
+RUNVS,RU,NVS,Novosibirsk oblast
+RUOMS,RU,OMS,Omsk oblast
+RUORE,RU,ORE,Orenburg oblast
+RUORL,RU,ORL,Oryol oblast
+RUPER,RU,PER,Perm krai
+RUPNZ,RU,PNZ,Penza oblast
+RUPRI,RU,PRI,Primorski krai
+RUPSK,RU,PSK,Pskov oblast
+RUROS,RU,ROS,Rostov oblast
+RURYA,RU,RYA,Ryazan oblast
+RUSA,RU,SA,Sakha republic
+RUSAK,RU,SAK,Sakhalin oblast
+RUSAM,RU,SAM,Samara oblast
+RUSAR,RU,SAR,Saratov oblast
+RUSE,RU,SE,North Ossetia-Alania republic
+RUSMO,RU,SMO,Smolensk oblast
+RUSPE,RU,SPE,Saint Petersburg
+RUSTA,RU,STA,Stavropol krai
+RUSVE,RU,SVE,Sverdlovsk oblast
+RUTA,RU,TA,Tatarstan republic
+RUTAM,RU,TAM,Tambov oblast
+RUTOM,RU,TOM,Tomsk oblast
+RUTUL,RU,TUL,Tula oblast
+RUTVE,RU,TVE,Tver oblast
+RUTY,RU,TY,Tuva republic
+RUTYU,RU,TYU,Tyumens oblast
+RUUD,RU,UD,Udmurtia republic
+RUULY,RU,ULY,Ulyanovsk oblast
+RUVGG,RU,VGG,Volgograd oblast
+RUVLA,RU,VLA,Vladimir oblast
+RUVLG,RU,VLG,Vologda oblast
+RUVOR,RU,VOR,Voronezh oblast
+RUYAN,RU,YAN,Yamalo-Nenetskiy
+RUYAR,RU,YAR,Yaroslavl oblast
+RUYEV,RU,YEV,Yevreyskaya avtonomnaya oblast
+RUZAB,RU,ZAB,Zabaykalsky Krai
+SA01,SA,1,Al Riyadh
+SA02,SA,2,Makkah
+SA03,SA,3,Al Madinah
+SA04,SA,4,Eastern Province
+SA05,SA,5,Al Qasim
+SA06,SA,6,Ha'il
+SA07,SA,7,Tabuk
+SA08,SA,8,Northern Border
+SA09,SA,9,Jizan
+SA10,SA,10,Najran
+SA11,SA,11,Al Bahah
+SA12,SA,12,Al Jawf
+SA14,SA,14,Asir
+SEAB,SE,AB,Stockholms
+SEAC,SE,AC,Vasterbottens
+SEBD,SE,BD,Norrbottens
+SEC,SE,C,Uppsala
+SED,SE,D,Sodermanlands
+SEE,SE,E,Ostergotlands
+SEF,SE,F,Jonkopings
+SEG,SE,G,Kronobergs
+SEH,SE,H,Kalmar
+SEI,SE,I,Gotlands
+SEK,SE,K,Blekinge
+SEM,SE,M,Skane
+SEN,SE,N,Hallands
+SEO,SE,O,Vastra Gotalands
+SES,SE,S,Varmlands
+SET,SE,T,Orebro
+SEU,SE,U,Vastmanlands
+SEW,SE,W,Dalarnas
+SEX,SE,X,Gavleborgs
+SEY,SE,Y,Vasternorrlands
+SEZ,SE,Z,Jamtlands
+SG01,SG,1,Central Singapore
+SG02,SG,2,North-East
+SG03,SG,3,North-West
+SG04,SG,4,South-East
+SG05,SG,5,South-West
+TH10,TH,10,Bangkok
+TH11,TH,11,Samut Prakan
+TH12,TH,12,Nonthaburi
+TH13,TH,13,Pathum Thani
+TH14,TH,14,Phra Nakhon Si Ayutthaya
+TH15,TH,15,Ang Thong
+TH16,TH,16,Lopburi
+TH17,TH,17,Sing Buri
+TH18,TH,18,Chai Nat
+TH19,TH,19,Saraburi
+TH20,TH,20,Chonburi
+TH21,TH,21,Rayong
+TH22,TH,22,Chanthaburi
+TH23,TH,23,Trat
+TH24,TH,24,Chachoengsao
+TH25,TH,25,Prachin Buri
+TH26,TH,26,Nakhon Nayok
+TH27,TH,27,Sa Kaeo
+TH30,TH,30,Nakhon Ratchasima
+TH31,TH,31,Buri Ram
+TH32,TH,32,Surin
+TH33,TH,33,Sisaket
+TH34,TH,34,Ubon Ratchathani
+TH35,TH,35,Yasothon
+TH36,TH,36,Chaiyaphum
+TH37,TH,37,Amnat Charoen
+TH39,TH,39,Nong Bua Lamphu
+TH40,TH,40,Khon Kaen
+TH41,TH,41,Udon Thani
+TH42,TH,42,Loei
+TH43,TH,43,Nong Khai
+TH44,TH,44,Maha Sarakham
+TH45,TH,45,Roi Et
+TH46,TH,46,Kalasin
+TH47,TH,47,Sakon Nakhon
+TH48,TH,48,Nakhon Phanom
+TH49,TH,49,Mukdahan
+TH50,TH,50,Chiang Mai
+TH51,TH,51,Lamphun
+TH52,TH,52,Lampang
+TH53,TH,53,Uttaradit
+TH54,TH,54,Phrae
+TH55,TH,55,Nan
+TH56,TH,56,Phayao
+TH57,TH,57,Chiang Rai
+TH58,TH,58,Mae Hong Son
+TH60,TH,60,Nakhon Sawan
+TH61,TH,61,Uthai Thani
+TH62,TH,62,Kamphaeng Phet
+TH63,TH,63,Tak
+TH64,TH,64,Sukhothai
+TH65,TH,65,Phitsanulok
+TH66,TH,66,Phichit
+TH67,TH,67,Phetchabun
+TH70,TH,70,Ratchaburi
+TH71,TH,71,Kanchanaburi
+TH72,TH,72,Suphan Buri
+TH73,TH,73,Nakhon Pathom
+TH74,TH,74,Samut Sakhon
+TH75,TH,75,Samut Songkhram
+TH76,TH,76,Phetchaburi
+TH77,TH,77,Prachuap Khiri Khan
+TH80,TH,80,Nakhon Si Thammarat
+TH81,TH,81,Krabi
+TH82,TH,82,Phang Nga
+TH83,TH,83,Phuket
+TH84,TH,84,Surat Thani
+TH85,TH,85,Ranong
+TH86,TH,86,Chumphon
+TH90,TH,90,Songkhla
+TH91,TH,91,Satun
+TH92,TH,92,Trang
+TH93,TH,93,Phatthalung
+TH94,TH,94,Pattani
+TH95,TH,95,Yala
+TH96,TH,96,Narathiwat
+THS,TH,S,Pattaya
+TR01,TR,1,Adana
+TR02,TR,2,Adayaman
+TR03,TR,3,Afyonkarahisar
+TR04,TR,4,Agra
+TR05,TR,5,Amasya
+TR06,TR,6,Ankara
+TR07,TR,7,Antalya
+TR08,TR,8,Artvin
+TR09,TR,9,Aydan
+TR10,TR,10,Balakesir
+TR11,TR,11,Bilecik
+TR12,TR,12,Bingol
+TR13,TR,13,Bitlis
+TR14,TR,14,Bolu
+TR15,TR,15,Burdur
+TR16,TR,16,Bursa
+TR17,TR,17,Canakkale
+TR18,TR,18,Cankara
+TR19,TR,19,Corum
+TR20,TR,20,Denizli
+TR21,TR,21,Diyarbakar
+TR22,TR,22,Edirne
+TR23,TR,23,Elazag
+TR24,TR,24,Erzincan
+TR25,TR,25,Erzurum
+TR26,TR,26,Eskisehir
+TR27,TR,27,Gaziantep
+TR28,TR,28,Giresun
+TR29,TR,29,Gumushane
+TR30,TR,30,Hakkari
+TR31,TR,31,Hatay
+TR32,TR,32,Isparta
+TR33,TR,33,Mersin
+TR34,TR,34,Istanbul
+TR35,TR,35,Izmir
+TR36,TR,36,Kars
+TR37,TR,37,Kastamonu
+TR38,TR,38,Kayseri
+TR39,TR,39,Karklareli
+TR40,TR,40,Karsehir
+TR41,TR,41,Kocaeli
+TR42,TR,42,Konya
+TR43,TR,43,Kutahya
+TR44,TR,44,Malatya
+TR45,TR,45,Manisa
+TR46,TR,46,Kahramanmaras
+TR47,TR,47,Mardin
+TR48,TR,48,Mugla
+TR49,TR,49,Mus
+TR50,TR,50,Nevsehir
+TR51,TR,51,Nigde
+TR52,TR,52,Ordu
+TR53,TR,53,Rize
+TR54,TR,54,Sakarya
+TR55,TR,55,Samsun
+TR56,TR,56,Siirt
+TR57,TR,57,Sinop
+TR58,TR,58,Sivas
+TR59,TR,59,Tekirdag
+TR60,TR,60,Tokat
+TR61,TR,61,Trabzon
+TR62,TR,62,Tunceli
+TR63,TR,63,Sanlaurfa
+TR64,TR,64,Usak
+TR65,TR,65,Van
+TR66,TR,66,Yozgat
+TR67,TR,67,Zonguldak
+TR68,TR,68,Aksaray
+TR69,TR,69,Bayburt
+TR70,TR,70,Karaman
+TR71,TR,71,Karakkale
+TR72,TR,72,Batman
+TR73,TR,73,Sarnak
+TR74,TR,74,Bartan
+TR75,TR,75,Ardahan
+TR76,TR,76,Igdir
+TR77,TR,77,Yalova
+TR78,TR,78,Karabuk
+TR79,TR,79,Kilis
+TR80,TR,80,Osmaniye
+TR81,TR,81,Duzce
+TWCHA,TW,CHA,Changhua County
+TWCYI,TW,CYI,Chiayi City
+TWCYQ,TW,CYQ,Chiayi County
+TWHSQ,TW,HSQ,Hsinchu County
+TWHSZ,TW,HSZ,Hsinchu City
+TWHUA,TW,HUA,Hualien County
+TWILA,TW,ILA,Yilan County
+TWKEE,TW,KEE,Keelung City
+TWKHH,TW,KHH,Kaohsiung City
+TWKHQ,TW,KHQ,Kaohsiung County
+TWMIA,TW,MIA,Miaoli County
+TWna2,TW,na2,Lienchiang County
+TWna3,TW,na3,Nanhai Islands
+TWnan,TW,nan,Kinmen County
+TWPEN,TW,PEN,Penghu County
+TWPIF,TW,PIF,Pingtung County
+TWTAO,TW,TAO,Taoyuan County
+TWTNN,TW,TNN,Tainan City
+TWTNQ,TW,TNQ,Tainan County
+TWTPE,TW,TPE,Taipei City
+TWTPQ,TW,TPQ,Taipei County
+TWTTT,TW,TTT,Taitung County
+TWTXG,TW,TXG,Taichung City
+TWTXQ,TW,TXQ,Taichung County
+TWYUN,TW,YUN,Yunlin County
+USAK,US,AK,Alaska
+USAL,US,AL,Alabama
+USAR,US,AR,Arkansas
+USAS,US,AS,American Samoa
+USAZ,US,AZ,Arizona
+USCA,US,CA,California
+USCO,US,CO,Colorado
+USCT,US,CT,Connecticut
+USDC,US,DC,District of Columbia
+USDE,US,DE,Delaware
+USFL,US,FL,FL
+USGA,US,GA,Georgia
+USGU,US,GU,Guam
+USHI,US,HI,Hawaii
+USIA,US,IA,Iowa
+USID,US,ID,Idaho
+USIL,US,IL,Illinois
+USIN,US,IN,IN
+USKS,US,KS,Kansas
+USKY,US,KY,KY
+USLA,US,LA,Louisiana
+USMA,US,MA,Massachusetts
+USMD,US,MD,Maryland
+USME,US,ME,Maine
+USMI,US,MI,Michigan
+USMN,US,MN,Minnesota
+USMO,US,MO,Missouri
+USMP,US,MP,Northern Mariana Islands
+USMS,US,MS,Mississippi
+USMT,US,MT,Montana
+USNC,US,NC,North Carolina
+USND,US,ND,North Dakota
+USNE,US,NE,Nebraska
+USNH,US,NH,New Hampshire
+USNJ,US,NJ,New Jersey
+USNM,US,NM,New Mexico
+USNV,US,NV,Nevada
+USNY,US,NY,New York
+USOH,US,OH,OH
+USOK,US,OK,Oklahoma
+USOR,US,OR,Oregon
+USPA,US,PA,Pennsylvania
+USPR,US,PR,Puerto Rico
+USRI,US,RI,Rhode Island
+USSC,US,SC,South Carolina
+USSD,US,SD,South Dakota
+USTN,US,TN,Tennessee
+USTX,US,TX,Texas
+USUM,US,UM,Minor Outlying Islands
+USUT,US,UT,Utah
+USVA,US,VA,Virginia
+USVI,US,VI,Virgin Islands
+USVT,US,VT,Vermont
+USWA,US,WA,Washington
+USWI,US,WI,Wisconsin
+USWV,US,WV,West Virginia
+USWY,US,WY,Wyoming
+ZAEC,ZA,EC,Eastern Cape
+ZAFS,ZA,FS,Free State
+ZAGT,ZA,GT,Gauteng
+ZALP,ZA,LP,Limpopo
+ZAMP,ZA,MP,Mpumalanga
+ZANC,ZA,NC,Northern Cape
+ZANL,ZA,NL,KwaZulu-Natal
+ZANW,ZA,NW,North West
+ZAWC,ZA,WC,Western Cape
